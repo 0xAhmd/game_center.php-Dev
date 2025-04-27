@@ -60,7 +60,7 @@ root/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/0xAhmd/game_center.php.git
+   git clone https://github.com/0xAhmd/game_center.php-Dev.git
    ```
 
 2. Set up your local server environment (XAMPP, WAMP, or similar).
